@@ -1,5 +1,7 @@
 # php7_explorer
 
+[![Build Status](https://travis-ci.org/hnw/php7_explorer.png)](https://travis-ci.org/hnw/php7_explorer)
+
 PHP extension for exploring the PHP7 internals
 
 ## INSTALL
